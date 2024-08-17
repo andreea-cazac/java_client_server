@@ -1,7 +1,7 @@
 # Java Chat Application
 
 ## Overview
-This project is a Java-based chat system between multiple clients. The server manages user connections, handles logins, and ensures message delivery.
+This educational project is a Java-based chat system between multiple clients. The server manages user connections, handles logins, and ensures message delivery.
 
 ## Client-Server Communication
 - **Protocol(own):** TCP/IP for reliable communication.
